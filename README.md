@@ -1,0 +1,2 @@
+# ex.bot
+a bot
